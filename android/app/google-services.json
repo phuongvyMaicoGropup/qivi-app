@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780046582796",
+    "project_id": "qivi-a5d07",
+    "storage_bucket": "qivi-a5d07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780046582796:android:1e8f63fbb6526cef205a29",
+        "android_client_info": {
+          "package_name": "com.example.qiviapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780046582796-39h60vd9k008n385pki69c5c0tskathi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk0-o9KzochNgPUzoQpVtSB4xDdf9NZXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780046582796-39h60vd9k008n385pki69c5c0tskathi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
